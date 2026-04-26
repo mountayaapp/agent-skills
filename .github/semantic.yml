@@ -1,0 +1,15 @@
+titleAndCommits: true
+allowMergeCommits: true
+allowRevertCommits: true
+
+types:
+  - "feat"
+  - "fix"
+  - "refactor"
+  - "revert"
+
+scopes:
+  - "auth"
+  - "data"
+  - "embedding"
+  - "tiles"
