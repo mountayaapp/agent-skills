@@ -56,7 +56,7 @@ export MOUNTAYA_PUBLISHABLE_KEY="pk_..."
 export MOUNTAYA_SECRET_KEY="sk_..."
 ```
 
-Create keys at [Mountaya API Settings](https://app.mountaya.com/settings/api-keys).
+Create keys in your [organization's settings ](https://app.mountaya.com/organizations?tab=api_keys).
 Enable the scopes your products need: `data` for Outdoor Intelligence,
 `tiles` for Outdoor Tiles, `embedding` + `tiles` for Map Embedding.
 
